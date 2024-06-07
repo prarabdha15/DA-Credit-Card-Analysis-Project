@@ -1,0 +1,36 @@
+KPI Analysis
+
+1. Sum of Total_Trans_Vol analysis
+Overall sum of Total_Trans_Vol is currently at 655651. 1 segment have significantly lower Sum of Total_Trans_Vol
+than others and 5 segments have significantly higher um of Total_Trans_Vol
+
+2.Sum of Income analysis
+
+Overall sum of income is currently at 575914439. 1 Segments have significantly lower sum of income than others 
+and 6 segments have significantly higher sum of income.
+
+3. Sum of Interest_Earned analysis
+
+Overall Sum of Interest_Earned is currently at 7843382. Sum of Interest_Earned for zipcode 91750 and other segments are significantly higher than others.
+
+
+
+
+Recent anomaly in Sum of Revenue
+
+Sum of Revenue was unexpectedly high for M on Sunday, May 21, 2023. It had a value of 771655, which is outside the expected range of 444305-769322.
+
+Significant anomaly in Sum of Revenue
+
+Sum of Revenue was unexpectedly high for M on Sunday, May 21, 2023. It had a value of 771655, which is outside the expected range of 444305-769322.
+
+Trends
+
+Sum of Revenue for F trended down between Sunday, November 26, 2023 and Sunday, December 24, 2023 with a drop of 88710.
+
+Sum of Revenue for M trended down between Sunday, July 30, 2023 and Sunday, December 17, 2023 with a drop of 39173.
+
+
+
+
+
